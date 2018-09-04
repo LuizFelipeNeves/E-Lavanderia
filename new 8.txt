@@ -1,0 +1,159 @@
+Concluido:
+
+
+-- Sistema de pagamento parcial na qual é possivel pagar com diversos metodos de pagamento, Solicitar reemboso.
+e ao mesmo tempo ter total controle de todas as operações atribuidas ao pedido.
+-- Sistema de Filiais
+-- Endereços: permite ilimitados endereços por usuário.
+-- Cartões: permite ilimitados cartões por usuário.
+-- Diversos meios de pagamento: cartão de credito, debito, cheque, boleto.
+-- Cupons; Promoções
+-- Pedidos
+-- Sessões
+-- Usuarios Fisico/Juridico
+-- Sistema de Permissões
+
+
+# Incluir hora em todas as tabelas
+# Atribuir varios pacotes a uma remessa.
+
+Shipping - Entrega
+	id
+	orderid
+	date
+	hora
+	status
+	motorista
+	ponto 1
+	ponto 2
+	distance
+	recebedor_nome
+	recebedor_cpf
+	obseravação
+	operador
+
+	
+user_role
+	option
+	option...
+
+Registro de operações:  
+	Recolhimento, 
+	Lavagem, 
+	Secagem, 
+	Passagem, 
+	Entrega.
+
+Veiculo 
+	id
+	marca
+	modelo
+	ano
+	placa
+	data de compra
+	kminicial
+
+Registro de abastecimentos.
+
+Pacote.
+Roupas.
+
+categoria
+servico
+
+tags
+	id
+	name
+	inserted_at
+	updated_at
+
+Categorização das roupas.
+inventario: sobre as materias primas.
+Registro de operações: uso das máquinas.
+Pedidos: Feedback do Cliente.
+Sistema de mensalidades
+Contas a receber dos clientes.
+
+Total controle de equipamento, Clientes, Niveis de permissão, produtos e serviços.
+
+Inclusão de serviços, produtos, tabelas de preço.
+Impressão de código de barras das peças a serem lavadas.
+Tabelas de preços personalizadas conforme o perfil do cliente.
+Coleta de informações para análise de perfil.
+Ferramenta para análise de perfil do cliente.
+
+Relatorios completos, inclusive Relatorios de uso de materia prima para as lavagens e uso do equipamento.
+
+Sistema operando em rede.
+Sistema de coletas, pontos de coletas.
+Sistema que pode ser acessado por celulares e tablets.
+
+Cadastro de clientes completo com acesso pelo telefone;
+Cadastros de roupas, tecidos e cor;
+Controle de entrada das roupas com emissão do rol;
+Emissão de relatórios gerenciais;
+Registro e controle das vendas e recebimentos;
+CRM – Relacionamento com os clientes;
+
+Emissão de etiquetas para malas diretas, tanto dos clientes, quanto do 
+remetente. Essas etiquetas podem ser selecionadas por bairro ou CEP;
+
+***
+Entregador:
+Lavandeira
+Passadeira
+Atendente
+
+Gasto por km rodado = Manutenção do veiculo, depreciação, combustível.
+Pontos de coleta e Lavanderia matriz.
+
+"Não existe beleza na roupa mais fina se gera morte e tristeza." (Gandhi)
+
+Uso de gas para centrifugação.
+Estação de tratamento para reaproveitamento de água = Economia de cerca de 80% no consumo. = Entretanto demanda um alto custo por metro cubico de agua. como também o uso de agua de Poços profundos localizados no terreno da empresa. Tornando-se inviavel.
+
+*************
+
+Cabideiro automático
+Este equipamento facilita o controle, a organização e a boa apresentação no acondicionamento de roupas em cabides. 
+Possui grande praticidade devido a sua esteira giratória, trazendo a roupa até o cliente.
+
+Testes preliminares revelaram a possibilidade de diminuição de uma média de 10%  no  tempo  de  uso  das  secadoras,  após  o  processo de  lavagem  ter  sido modificado para um ciclo de centrifugação maior que o atual.   
+ 
+***** 
+Análise do processamento de roupas em lavanderia hospitalar: um estudo de caso em um hospital público do Sertão do Pajéu (PE)
+
+Assume-se que a performance de uma unidade hospitalar é o reflexo de uma grande variedade de sistemas e subsistemas que congregam as funções básicas do seu dia-a-dia. Um desses subsistemas, a lavanderia hospitalar, é responsável pelo processamento e distribuição de roupas, em perfeitas condições de higiene e limpeza, a fim de proporcionar conforto e segurança ao paciente. Apesar dessa importância, a lavanderia hospitalar, em muitos casos, é um setor ignorado dentro do hospital e, na maioria das instituições, não conta com um controle rigoroso de custos e de qualidade de processamento das roupas. Assim, esse trabalho tem como objetivo analisar como é realizado o processamento de roupas na lavanderia hospitalar de um hospital público, localizado numa cidade do interior de Pernambuco, descrevendo as atividades realizadas e apontando as principais falhas encontradas.
+
+****
+
+Investimento Inicial 
+Balcão R$ 4.000,00
+Computador R$ 2.000,00
+Reforma R$ 20.000,00
+Cabideiro R$ 10.000,00
+Passadeira R$ 28.000,00
+Máquina de Lavar R$ 12.000,00
+Secadora R$ 8.000,00
+Tira-Manchas R$ 9.000,00
+Máquina a Seco R$ 120.000,00
+Veículo de Entrega R$ 30.000,00
+Investimento Total R$ 243.000,00
+
+Matriz
+Aluguel (45 m²) R$ 2.800,00
+Água R$ 350,00
+Luz  R$ 500,00
+Telefone R$ 150,00
+Funcionários R$ 4.800,00
+Logística (até 4,0 km, 1x ao dia, 6 x p/ semana) R$ 180,00
+Motorista R$ 1.600,00
+Gastos Mensais Totais R$ 10.380,00
+
+Postos
+Aluguel (20 m²) R$ 800,00
+Água R$ 0,00
+Luz R$ 100,00
+Telefone + Internet R$ 130,00
+Funcionários (2) R$ 2.400,00
+Gastos Mensais Totais R$ 3430,00
