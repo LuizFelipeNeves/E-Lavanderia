@@ -1,18 +1,17 @@
 Concluido:
 
 
--- Sistema de pagamento parcial na qual È possivel pagar com diversos metodos de pagamento, Solicitar reemboso.
-e ao mesmo tempo ter total controle de todas as operaÁıes atribuidas ao pedido.
+-- Sistema de pagamento parcial na qual √© possivel pagar com diversos metodos de pagamento, Solicitar reemboso.
+e ao mesmo tempo ter total controle de todas as opera√ß√µes atribuidas ao pedido.
 -- Sistema de Filiais
--- EndereÁos: permite ilimitados endereÁos por usu·rio.
--- Cartıes: permite ilimitados cartıes por usu·rio.
--- Diversos meios de pagamento: cart„o de credito, debito, cheque, boleto.
--- Cupons; PromoÁıes
+-- Endere√ßos: permite ilimitados endere√ßos por usu√°rio.
+-- Cart√µes: permite ilimitados cart√µes por usu√°rio.
+-- Diversos meios de pagamento: cart√£o de credito, debito, cheque, boleto.
+-- Cupons; Promo√ß√µes
 -- Pedidos
--- Sessıes
+-- Sess√µes
 -- Usuarios Fisico/Juridico
--- Sistema de Permissıes
-
+-- Sistema de Permiss√µes
 
 # Incluir hora em todas as tabelas
 # Atribuir varios pacotes a uma remessa.
@@ -29,7 +28,7 @@ Shipping - Entrega
 	distance
 	recebedor_nome
 	recebedor_cpf
-	obseravaÁ„o
+	obserava√ß√£o
 	operador
 
 	
@@ -37,7 +36,7 @@ user_role
 	option
 	option...
 
-Registro de operaÁıes:  
+Registro de opera√ß√µes:  
 	Recolhimento, 
 	Lavagem, 
 	Secagem, 
@@ -67,20 +66,20 @@ tags
 	inserted_at
 	updated_at
 
-CategorizaÁ„o das roupas.
+Categoriza√ß√£o das roupas.
 inventario: sobre as materias primas.
-Registro de operaÁıes: uso das m·quinas.
+Registro de opera√ß√µes: uso das m√°quinas.
 Pedidos: Feedback do Cliente.
 Sistema de mensalidades
 Contas a receber dos clientes.
 
-Total controle de equipamento, Clientes, Niveis de permiss„o, produtos e serviÁos.
+Total controle de equipamento, Clientes, Niveis de permiss√£o, produtos e servi√ßos.
 
-Inclus„o de serviÁos, produtos, tabelas de preÁo.
-Impress„o de cÛdigo de barras das peÁas a serem lavadas.
-Tabelas de preÁos personalizadas conforme o perfil do cliente.
-Coleta de informaÁıes para an·lise de perfil.
-Ferramenta para an·lise de perfil do cliente.
+Inclus√£o de servi√ßos, produtos, tabelas de pre√ßo.
+Impress√£o de c√≥digo de barras das pe√ßas a serem lavadas.
+Tabelas de pre√ßos personalizadas conforme o perfil do cliente.
+Coleta de informa√ß√µes para an√°lise de perfil.
+Ferramenta para an√°lise de perfil do cliente.
 
 Relatorios completos, inclusive Relatorios de uso de materia prima para as lavagens e uso do equipamento.
 
@@ -90,12 +89,12 @@ Sistema que pode ser acessado por celulares e tablets.
 
 Cadastro de clientes completo com acesso pelo telefone;
 Cadastros de roupas, tecidos e cor;
-Controle de entrada das roupas com emiss„o do rol;
-Emiss„o de relatÛrios gerenciais;
+Controle de entrada das roupas com emiss√£o do rol;
+Emiss√£o de relat√≥rios gerenciais;
 Registro e controle das vendas e recebimentos;
-CRM ñ Relacionamento com os clientes;
+CRM ‚Äì Relacionamento com os clientes;
 
-Emiss„o de etiquetas para malas diretas, tanto dos clientes, quanto do 
+Emiss√£o de etiquetas para malas diretas, tanto dos clientes, quanto do 
 remetente. Essas etiquetas podem ser selecionadas por bairro ou CEP;
 
 ***
@@ -104,56 +103,56 @@ Lavandeira
 Passadeira
 Atendente
 
-Gasto por km rodado = ManutenÁ„o do veiculo, depreciaÁ„o, combustÌvel.
+Gasto por km rodado = Manuten√ß√£o do veiculo, deprecia√ß√£o, combust√≠vel.
 Pontos de coleta e Lavanderia matriz.
 
-"N„o existe beleza na roupa mais fina se gera morte e tristeza." (Gandhi)
+"N√£o existe beleza na roupa mais fina se gera morte e tristeza." (Gandhi)
 
-Uso de gas para centrifugaÁ„o.
-EstaÁ„o de tratamento para reaproveitamento de ·gua = Economia de cerca de 80% no consumo. = Entretanto demanda um alto custo por metro cubico de agua. como tambÈm o uso de agua de PoÁos profundos localizados no terreno da empresa. Tornando-se inviavel.
+Uso de gas para centrifuga√ß√£o.
+Esta√ß√£o de tratamento para reaproveitamento de √°gua = Economia de cerca de 80% no consumo. = Entretanto demanda um alto custo por metro cubico de agua. como tamb√©m o uso de agua de Po√ßos profundos localizados no terreno da empresa. Tornando-se inviavel.
 
 *************
 
-Cabideiro autom·tico
-Este equipamento facilita o controle, a organizaÁ„o e a boa apresentaÁ„o no acondicionamento de roupas em cabides. 
-Possui grande praticidade devido a sua esteira giratÛria, trazendo a roupa atÈ o cliente.
+Cabideiro autom√°tico
+Este equipamento facilita o controle, a organiza√ß√£o e a boa apresenta√ß√£o no acondicionamento de roupas em cabides. 
+Possui grande praticidade devido a sua esteira girat√≥ria, trazendo a roupa at√© o cliente.
 
-Testes preliminares revelaram a possibilidade de diminuiÁ„o de uma mÈdia de 10%  no  tempo  de  uso  das  secadoras,  apÛs  o  processo de  lavagem  ter  sido modificado para um ciclo de centrifugaÁ„o maior que o atual.   
+Testes preliminares revelaram a possibilidade de diminui√ß√£o de uma m√©dia de 10%  no  tempo  de  uso  das  secadoras,  ap√≥s  o  processo de  lavagem  ter  sido modificado para um ciclo de centrifuga√ß√£o maior que o atual.   
  
 ***** 
-An·lise do processamento de roupas em lavanderia hospitalar: um estudo de caso em um hospital p˙blico do Sert„o do PajÈu (PE)
+An√°lise do processamento de roupas em lavanderia hospitalar: um estudo de caso em um hospital p√∫blico do Sert√£o do Paj√©u (PE)
 
-Assume-se que a performance de uma unidade hospitalar È o reflexo de uma grande variedade de sistemas e subsistemas que congregam as funÁıes b·sicas do seu dia-a-dia. Um desses subsistemas, a lavanderia hospitalar, È respons·vel pelo processamento e distribuiÁ„o de roupas, em perfeitas condiÁıes de higiene e limpeza, a fim de proporcionar conforto e seguranÁa ao paciente. Apesar dessa import‚ncia, a lavanderia hospitalar, em muitos casos, È um setor ignorado dentro do hospital e, na maioria das instituiÁıes, n„o conta com um controle rigoroso de custos e de qualidade de processamento das roupas. Assim, esse trabalho tem como objetivo analisar como È realizado o processamento de roupas na lavanderia hospitalar de um hospital p˙blico, localizado numa cidade do interior de Pernambuco, descrevendo as atividades realizadas e apontando as principais falhas encontradas.
+Assume-se que a performance de uma unidade hospitalar √© o reflexo de uma grande variedade de sistemas e subsistemas que congregam as fun√ß√µes b√°sicas do seu dia-a-dia. Um desses subsistemas, a lavanderia hospitalar, √© respons√°vel pelo processamento e distribui√ß√£o de roupas, em perfeitas condi√ß√µes de higiene e limpeza, a fim de proporcionar conforto e seguran√ßa ao paciente. Apesar dessa import√¢ncia, a lavanderia hospitalar, em muitos casos, √© um setor ignorado dentro do hospital e, na maioria das institui√ß√µes, n√£o conta com um controle rigoroso de custos e de qualidade de processamento das roupas. Assim, esse trabalho tem como objetivo analisar como √© realizado o processamento de roupas na lavanderia hospitalar de um hospital p√∫blico, localizado numa cidade do interior de Pernambuco, descrevendo as atividades realizadas e apontando as principais falhas encontradas.
 
 ****
 
 Investimento Inicial 
-Balc„o R$ 4.000,00
+Balc√£o R$ 4.000,00
 Computador R$ 2.000,00
 Reforma R$ 20.000,00
 Cabideiro R$ 10.000,00
 Passadeira R$ 28.000,00
-M·quina de Lavar R$ 12.000,00
+M√°quina de Lavar R$ 12.000,00
 Secadora R$ 8.000,00
 Tira-Manchas R$ 9.000,00
-M·quina a Seco R$ 120.000,00
-VeÌculo de Entrega R$ 30.000,00
+M√°quina a Seco R$ 120.000,00
+Ve√≠culo de Entrega R$ 30.000,00
 Investimento Total R$ 243.000,00
 
 Matriz
-Aluguel (45 m≤) R$ 2.800,00
-¡gua R$ 350,00
+Aluguel (45 m¬≤) R$ 2.800,00
+√Ågua R$ 350,00
 Luz  R$ 500,00
 Telefone R$ 150,00
-Funcion·rios R$ 4.800,00
-LogÌstica (atÈ 4,0 km, 1x ao dia, 6 x p/ semana) R$ 180,00
+Funcion√°rios R$ 4.800,00
+Log√≠stica (at√© 4,0 km, 1x ao dia, 6 x p/ semana) R$ 180,00
 Motorista R$ 1.600,00
 Gastos Mensais Totais R$ 10.380,00
 
 Postos
-Aluguel (20 m≤) R$ 800,00
-¡gua R$ 0,00
+Aluguel (20 m¬≤) R$ 800,00
+√Ågua R$ 0,00
 Luz R$ 100,00
 Telefone + Internet R$ 130,00
-Funcion·rios (2) R$ 2.400,00
+Funcion√°rios (2) R$ 2.400,00
 Gastos Mensais Totais R$ 3430,00
