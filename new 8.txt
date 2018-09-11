@@ -13,7 +13,6 @@ e ao mesmo tempo ter total controle de todas as operações atribuidas ao pedido
 -- Usuarios Fisico/Juridico
 -- Sistema de Permissões
 
-# Incluir hora em todas as tabelas
 # Atribuir varios pacotes a uma remessa.
 
 Shipping - Entrega
