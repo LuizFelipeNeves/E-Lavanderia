@@ -1,4 +1,4 @@
-Concluido:
+﻿Concluido:
 
 
 -- Sistema de pagamento parcial na qual é possivel pagar com diversos metodos de pagamento, Solicitar reemboso.
@@ -14,22 +14,6 @@ e ao mesmo tempo ter total controle de todas as operações atribuidas ao pedido
 -- Sistema de Permissões
 
 # Atribuir varios pacotes a uma remessa.
-
-Shipping - Entrega
-	id
-	orderid
-	date
-	hora
-	status
-	motorista
-	ponto 1
-	ponto 2
-	distance
-	recebedor_nome
-	recebedor_cpf
-	obseravação
-	operador
-
 	
 user_role
 	option
